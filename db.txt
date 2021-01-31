@@ -1,0 +1,10 @@
+
+create table ikman(
+	District varchar(50),
+	category varchar(20),
+	model varchar(50),
+	price varchar(50),
+	des varchar(50),
+	contact varchar(50),
+	Description varchar(10000)
+)engine=innodb;
